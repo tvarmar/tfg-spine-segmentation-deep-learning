@@ -21,13 +21,13 @@ El objetivo principal es explorar el uso de **deep learning** para mejorar el an
 
 ## Estructura del repositorio
 - `notebooks/`
-  - `1_preprocesar.ipynb` — Conversión, normalización y preparación de imágenes.  
-  - `2_entrenar_modelos.ipynb` — Entrenamiento de modelos U-Net con encoder ResNet34.  
-  - `3_postprocesado.ipynb` — Limpieza y validación de las máscaras segmentadas.  
-  - `4_metricas_clinicas.ipynb` — Cálculo de métricas clínicas a partir de las segmentaciones finales.
+  - `1_preprocesar.ipynb` - Conversión, normalización y preparación de imágenes.  
+  - `2_entrenar_modelos.ipynb` - Entrenamiento de modelos U-Net con encoder ResNet34.  
+  - `3_postprocesado.ipynb` - Limpieza y validación de las máscaras segmentadas.  
+  - `4_metricas_clinicas.ipynb` - Cálculo de métricas clínicas a partir de las segmentaciones finales.
 - `docs/`
   - `informe_tfg.pdf` - Informe completo del proyecto
-- `README.md` — Este archivo.
+- `README.md` - Este archivo.
 
 ## Datos
 Por motivos de privacidad y licencia, las imágenes utilizadas en el proyecto **no se incluyen** en este repositorio.  
